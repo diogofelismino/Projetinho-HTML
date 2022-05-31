@@ -1,0 +1,31 @@
+.cabeca{
+
+    margin-top: 0px;
+    background-color: rgba(0, 255, 255, 0.733);
+
+    
+    
+
+}
+
+body{
+    background-image: url('assets/petpawns.png');
+}
+
+
+.meio{
+    border:1px dashed  blue;
+    background-color: azure;
+    font-family: cursive;
+    border-radius: 20px;
+    
+}
+
+
+.corpo{
+    background-color: azure;
+    margin: 0px;
+}
+
+
+
